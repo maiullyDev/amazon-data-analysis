@@ -36,8 +36,6 @@ Os dados que analisamos incluem um total de 1.185 mil produtos. Durante a análi
 
 ### Produtos com maior desconto tendem a receber melhores avaliações?
 
-### **Pergunta 1 - Produtos com maior desconto tendem a receber melhores avaliações?**
-
 A análise mostrou que não existe uma relação direta entre o percentual de desconto e a avaliação dos produtos. Isso foi confirmado pela linha de tendência na visualização dos dados, que não indicou uma correlação clara. No entanto, o teste de hipóteses revelou uma diferença significativa nas médias das avaliações entre produtos com altos e baixos descontos, com um p-valor inferior a 0,05. Surpreendentemente, os produtos com descontos menores tiveram, em média, avaliações um pouco melhores do que aqueles com descontos maiores, o que contradiz nossa expectativa inicial.
 
 ### Produtos mais caros tendem a receber uma melhor avaliação?
