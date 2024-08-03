@@ -1,12 +1,19 @@
 # amazon-data-analysis
 
-<p align="center">
- 
-[Caso](#caso)  •  [Ferramentas Utilizadas](#ferramentas-utilizadas)  •  [Metodologia](#metodologia)  •  [Testes de Hipóteses](#testes-de-hipóteses)  •  [Análise de Sentimentos](#análise-de-sentimentos)  •  [Conclusão](#conclusão)  •  [Recomendações](#recomendações)  •  [Limitações e Próximos Passos](#limitações-e-próximos-passos)  •  [Venha nos conhecer!](#venha-nos-conhecer)
-
-</p>
-
 **Time responsável pelo projeto**: [Eslaine Santos](https://www.linkedin.com/in/eslaine-santos/) e [Maiully Mendonça](https://www.linkedin.com/in/maiully-data-science/) 
+
+## Índice
+ 
+- [Caso](#caso)  
+- [Ferramentas Utilizadas](#ferramentas-utilizadas)   
+- [Metodologia](#metodologia)  
+- [Testes de Hipóteses](#testes-de-hipóteses)  
+- [Análise de Sentimentos](#análise-de-sentimentos)  
+- [Conclusão](#conclusão)   
+- [Recomendações](#recomendações)   
+- [Limitações e Próximos Passos](#limitações-e-próximos-passos)   
+- [Venha nos conhecer!](#venha-nos-conhecer)   
+
 
 ## Caso
 
