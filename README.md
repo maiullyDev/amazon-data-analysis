@@ -2,11 +2,11 @@
 
 <p align="center">
  
-[Caso](#caso)  •  [Ferramentas Utilizadas](#ferramentas-utilizadas)  •  [Venha nos conhecer!](#venha-nos-conhecer)
+[Caso](#caso)  •  [Ferramentas Utilizadas](#ferramentas-utilizadas)  •  [Metodologia](#metodologia)  •  [Testes de Hipóteses](#testes-de-hipóteses)  •  [Análise de Sentimentos](#análise-de-sentimentos)  •  [Conclusão](#conclusão)  •  [Recomendações](#recomendações)  •  [Limitações e Próximos Passos](#limitações-e-próximos-passos)  •  [Venha nos conhecer!](#venha-nos-conhecer)
 
 </p>
 
-**Time responsável pelo projeto**: Eslaine Santos e Maiully Mendonça 
+**Time responsável pelo projeto**: [Eslaine Santos](https://www.linkedin.com/in/eslaine-santos/) e [Maiully Mendonça](https://www.linkedin.com/in/maiully-data-science/) 
 
 ## Caso
 
@@ -28,7 +28,7 @@ O principal problema que este projeto busca resolver é entender os fatores que 
 [![image](https://github.com/user-attachments/assets/9404416e-3921-4440-aa1a-4cdfce2bc390)](https://app.powerbi.com/view?r=eyJrIjoiMTRjYTA1ZGMtNDMxMS00MmU0LWEzYjEtYzhmODYzYmRlYWMyIiwidCI6ImUwZjY3ODE5LTJmNmYtNDg0Mi1hZjVlLTA5ZjI4Y2U4N2U0NyJ9&pageName=6310dbc2a0723055404b)
 
 
-### **Metodologia**
+## **Metodologia**
 
 - **Tratamento e Limpeza dos Dados**
 - **Análise Estatística**: Aplicação de testes de hipóteses, análise de correlação e regressão linear para identificar relações entre variáveis.
