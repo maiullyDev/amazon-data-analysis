@@ -2,7 +2,7 @@
 
 <p align="center">
  
-[Caso](#caso)  •  [Venha nos conhecer!](#venha-nos-conhecer)
+[Caso](#caso)  •  [Ferramentas Utilizadas](#ferramentas-utilizadas)  •  [Venha nos conhecer!](#venha-nos-conhecer)
 
 </p>
 
