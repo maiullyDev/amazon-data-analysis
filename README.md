@@ -1,5 +1,11 @@
 # amazon-data-analysis
 
+<p align="center">
+ 
+[Caso](#caso)  •  [Venha nos conhecer!](#venha-nos-conhecer)
+
+</p>
+
 **Time responsável pelo projeto**: Eslaine Santos e Maiully Mendonça 
 
 ## Caso
